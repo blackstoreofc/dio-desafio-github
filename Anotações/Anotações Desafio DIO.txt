@@ -1,3 +1,13 @@
-# Links Uteis
+## Links Uteis
 
 [GIT](https://git-scm.com/)
+
+## Comandos
+
+git clone + site (add repositório)
+git add *
+git commit -m "    "
+git push origin main
+git status
+ls
+cd + nome pasta
