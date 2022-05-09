@@ -11,4 +11,12 @@ git commit -m "    "
 git push origin main
 git status
 ls
-cd + nome pasta
+dir: lista todas as pastas (diretórios)
+cls  limpa a tela
+cd  + nome = navega para pasta
+cd .. volta 
+TAB autocompletar 
+mkdir + nome = cria uma pasta
+del + nome do arquivo = deleta o arquivo
+echo + texto = echo hello
+echo hello > hello.txt  (cria arquivo)
