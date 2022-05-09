@@ -1,6 +1,7 @@
 ## Links Uteis
 
 [GIT](https://git-scm.com/)
+O GIT BASH é um terminal extendido para para otimizar o uso do GIT
 
 ## Comandos
 
