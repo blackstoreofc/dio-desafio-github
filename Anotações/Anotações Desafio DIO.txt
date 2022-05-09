@@ -8,7 +8,7 @@ O GIT BASH é um terminal extendido para para otimizar o uso do GIT
 git clone + site (add repositório)
 git add *
 git commit -m "    "
-git push origin main
+git push origin main (enviar commit para nuvem/git hub)
 git status
 ls
 dir: lista todas as pastas (diretórios)
