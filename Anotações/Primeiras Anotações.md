@@ -16,7 +16,7 @@ Habilidade de concentrar nos aspectos essenciais de um contexto qualquer, ignora
 
 ## Algoritmo
 
-sequência de passos que resolve um problema
+Sequência de passos que resolve um problema
 A ordem dos passos é muito importante
 
 ## Pseudocódigo
