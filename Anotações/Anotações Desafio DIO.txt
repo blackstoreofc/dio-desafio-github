@@ -20,3 +20,4 @@ mkdir + nome = cria uma pasta
 del + nome do arquivo = deleta o arquivo
 echo + texto = echo hello
 echo hello > hello.txt  (cria arquivo)
+git pull (trazer arquivos da nuvem/git hub)
